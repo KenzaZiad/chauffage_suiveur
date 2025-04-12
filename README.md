@@ -37,8 +37,7 @@ Ce projet consiste à concevoir, dimensionner et réaliser un système de chauff
 
 ## 📷 Images du projet
 ### Conception du system sous SOlIDWORKS:
-![Simulation SOLIDWORKS du suiveur](images/simulation_suiveur.png)
+![Simulation SOLIDWORKS du suiveur](https://github.com/KenzaZiad/chauffage_suiveur/blob/main/Conception_suiveur_solid.jpeg)
 ### System réalisé:
-![Dimensionnement de la pompe](images/dimensionnement_pompe.png)
+![Système final](https://github.com/KenzaZiad/chauffage_suiveur/blob/main/realisation.jpeg)
 
-![Présentation UM6P 2024](images/presentation_um6p.png)
